@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"Header"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"vec",
+				"vector\tstd::vector"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frontend/src/App.jsx",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"contents": "Microsoft Windows [Version 10.0.22621.1778]                                                                                             \n(c) Microsoft Corporation. All rights reserved.                                                                                         \n                                                                                                                                        \nD:\\Code\\MERN_MYM>",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Microsoft Windows [Version 10.0.22621.1778]                                                                                             \n(c) Microsoft Corporation. All rights reserved.                                                                                         \n                                                                                                                                        \nD:\\Code\\MERN_MYM>cd frontend\n                                                                                                                                        \nD:\\Code\\MERN_MYM\\frontend>",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"terminus_activate",
+					{
+						"auto_close": true,
+						"cancellable": false,
+						"cmd":
+						[
+							"cmd.exe"
+						],
+						"cwd": "D:\\Code\\MERN_MYM",
+						"default_title": "Command Prompt",
+						"env":
+						{
+							"TERMINUS_SUBLIME": "1",
+							"TERM_PROGRAM": "Terminus-Sublime"
+						},
+						"file_regex": null,
+						"line_regex": null,
+						"panel_name": "Terminus",
+						"show_in_panel": null,
+						"tag": null,
+						"timeit": false,
+						"title": null
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACsAQAATWljcm9zb2Z0IFdpbmRvd3MgW1ZlcnNpb24gMTAuMC4yMjYyMS4xNzc4XSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAooYykgTWljcm9zb2Z0IENvcnBvcmF0aW9uLiBBbGwgcmlnaHRzIHJlc2VydmVkLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKRDpcQ29kZVxNRVJOX01ZTT4",
+					"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					3,
+					"terminus_render",
+					null,
+					"KwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAEAAAAKBwAAAAAAAAAHAAAAAAAAAAEAAAAKBgAAAAAAAAAGAAAAAAAAAAEAAAAKBQAAAAAAAAAFAAAAAAAAAAEAAAAKBAAAAAAAAAAEAAAAAAAAAAEAAAAKAwAAAAAAAAADAAAAAAAAAAEAAAAKAgAAAAAAAAACAAAAAAAAAAEAAAAKAQAAAAAAAAABAAAAAAAAAAEAAAAKAAAAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAAAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAARAQAAAAAAAAAAAAARAQAAAAAAABIBAAAAAAAAAAAAABIBAAAAAAAAEgEAAAAAAAAAAAAAEgEAAAAAAACaAQAAAAAAAAAAAACaAQAAAAAAAJsBAAAAAAAAAAAAAJsBAAAAAAAArAEAAAAAAAAAAAAArAEAAAAAAAAjAgAAAAAAAAAAAACsAQAAAAAAAKwBAAAAAAAAdwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					2,
+					"terminus_render",
+					null,
+					"BgAAAJsBAAAAAAAArQEAAAAAAAARAAAARDpcQ29kZVxNRVJOX01ZTT6tAQAAAAAAACMCAAAAAAAAAAAAAK0BAAAAAAAArQEAAAAAAAB2AAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJsBAAAAAAAArgEAAAAAAAASAAAARDpcQ29kZVxNRVJOX01ZTT5jrgEAAAAAAAAjAgAAAAAAAAAAAACuAQAAAAAAAK4BAAAAAAAAdQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAK4BAAAAAAAArwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsAEAAAAAAAAUAAAARDpcQ29kZVxNRVJOX01ZTT5jZCCwAQAAAAAAACMCAAAAAAAAAAAAALABAAAAAAAAsAEAAAAAAABzAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					2,
+					"terminus_render",
+					null,
+					"BgAAAJsBAAAAAAAAsQEAAAAAAAAVAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmsQEAAAAAAAAjAgAAAAAAAAAAAACxAQAAAAAAALEBAAAAAAAAcgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJsBAAAAAAAAsgEAAAAAAAAWAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb7IBAAAAAAAAIwIAAAAAAAAAAAAAsgEAAAAAAACyAQAAAAAAAHEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAswEAAAAAAAAXAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb3KzAQAAAAAAACMCAAAAAAAAAAAAALMBAAAAAAAAswEAAAAAAABwAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsgEAAAAAAAAYAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb3JusgEAAAAAAAAjAgAAAAAAAAAAAACyAQAAAAAAALIBAAAAAAAAcQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsQEAAAAAAAAXAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb3KxAQAAAAAAACMCAAAAAAAAAAAAALEBAAAAAAAAsQEAAAAAAAByAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsgEAAAAAAAAWAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb7IBAAAAAAAAIwIAAAAAAAAAAAAAsgEAAAAAAACyAQAAAAAAAHEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAswEAAAAAAAAXAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb3KzAQAAAAAAACMCAAAAAAAAAAAAALMBAAAAAAAAswEAAAAAAABwAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsgEAAAAAAAAYAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb3JvsgEAAAAAAAAjAgAAAAAAAAAAAACyAQAAAAAAALIBAAAAAAAAcQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsQEAAAAAAAAXAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb3KxAQAAAAAAACMCAAAAAAAAAAAAALEBAAAAAAAAsQEAAAAAAAByAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsAEAAAAAAAAWAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmb7ABAAAAAAAAIwIAAAAAAAAAAAAAsAEAAAAAAACwAQAAAAAAAHMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAsQEAAAAAAAAVAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmsQEAAAAAAAAjAgAAAAAAAAAAAACxAQAAAAAAALEBAAAAAAAAcgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAJsBAAAAAAAAtwEAAAAAAAAWAAAARDpcQ29kZVxNRVJOX01ZTT5jZCBmcrcBAAAAAAAAIwIAAAAAAAAAAAAAtwEAAAAAAAC3AQAAAAAAAGwAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"terminus_render",
+					null,
+					"BwAAALcBAAAAAAAAuAEAAAAAAAAAAAAAuAEAAAAAAAC4AQAAAAAAAAAAAAC4AQAAAAAAAEACAAAAAAAAAAAAAEACAAAAAAAAQQIAAAAAAAAAAAAAQQIAAAAAAABbAgAAAAAAAAAAAABbAgAAAAAAAMkCAAAAAAAAAAAAAFsCAAAAAAAAWwIAAAAAAABuAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAtwEAAAAAAAC3AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Microsoft Windows [Version 10.0.22621.1778]                                                                                             \n(c) Microsoft Corporation. All rights reserved.                                                                                         \n                                                                                                                                        \nD:\\Code\\MERN_MYM>cd backend\n                                                                                                                                        \nD:\\Code\\MERN_MYM\\backend>",
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termin",
+				"Terminus: List Shells"
+			],
+			[
+				"ter",
+				"Terminus: List Shells"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus list ",
+				"Terminus: List Shells"
+			],
+			[
+				"list",
+				"Terminus: List Shells"
+			],
+			[
+				"terminus ",
+				"Terminus: List Shells"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"open",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"open terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pretto",
+				"JsPrettier: Format Code"
+			],
+			[
+				"theme",
+				"UI: Customize Theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Snippet: cp",
+				"Snippet: cpSnippet"
+			],
+			[
+				"tem",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Code/MERN_MYM",
+		"/D/Code/MERN_MYM/frontend",
+		"/D/Code/MERN_MYM/frontend/src"
+	],
+	"file_history":
+	[
+		"/D/Code/MERN_MYM/frontend/src/dummy",
+		"/C/Users/jaide/AppData/Roaming/Sublime Text/Packages/User/Default.sublime-commands",
+		"/C/Users/jaide/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-commands",
+		"/D/Code/MERN_MYM/frontend/src/components/home.jsx",
+		"/D/Code/MERN_MYM/.gitignore",
+		"/D/Code/MERN_MYM/backend/package.json",
+		"/D/Code/MERN_MYM/frontend/.gitignore",
+		"/C/Users/jaide/OneDrive/Desktop/test.cpp",
+		"/D/Code/shoppingApp/frontend/src/App.js",
+		"/D/Code/CP/Contests/CF #835/D.cpp",
+		"/D/Code/CP/Contests/CF #835/C.cpp",
+		"/D/Code/CP/Contests/CF #835/B.cpp",
+		"/D/Code/CP/Contests/CF #835/A.cpp",
+		"/D/Code/CP/Contests/CF #849/E.cpp",
+		"/D/Code/CP/Contests/CF #849/D.cpp",
+		"/D/Code/CP/Contests/CF #849/C.cpp",
+		"/D/Code/CP/Contests/CF #849/B.cpp",
+		"/D/Code/CP/Contests/CF #849/A.cpp",
+		"/D/Code/CP/Contests/CF #871/D.cpp",
+		"/D/Code/CP/Contests/CF #871/C.cpp",
+		"/D/Code/CP/Contests/CF #871/B.cpp",
+		"/D/Code/CP/Contests/CF #871/A.cpp",
+		"/D/Code/CP/test.cpp",
+		"/D/Code/CP/input.txt",
+		"/C/Users/jaide/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jaide/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Code/CP/Contests/CF #859/test.cpp",
+		"/C/Users/jaide/AppData/Roaming/Sublime Text/Packages/User/cpSnippet.sublime-snippet",
+		"/D/Code/CP/D.cpp",
+		"/D/Code/CP/C.cpp",
+		"/D/Code/CP/B.cpp",
+		"/D/Code/CP/A.cpp",
+		"/D/Code/CP/Contests/CF #859/oddQueries.cpp",
+		"/D/Code/CP/Contests/CF #859/grabCandies.cpp",
+		"/D/Code/CP/Contests/CF #827/A.cpp",
+		"/D/Code/CP/1806B-MexMasters.cpp",
+		"/D/Code/CP/findReplace.cpp",
+		"/D/Code/CP/grabCandies.cpp",
+		"/D/Code/CP/plusMinus.cpp",
+		"/D/Code/CP/oddQueries.cpp",
+		"/D/Code/CP/newww.cpp",
+		"/D/Code/CP/new.cpp"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frontend/src/App.jsx",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "D:\\Code\\MERN_MYM",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "D:\\Code\\MERN_MYM",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "D:\\Code\\MERN_MYM",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "D:\\Code\\MERN_MYM",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								601
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "D:\\Code\\MERN_MYM",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "D:\\Code\\MERN_MYM",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 55.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.667377398721,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 188.0
+	},
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MERN_MYM.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
