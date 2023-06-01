@@ -8,7 +8,7 @@ const router = require("./routes/routes")
 const app = express();
 const server = http.createServer(app);
 
-const whitelist = ['http://localhost:5000', 'http://localhost:3001'];
+const whitelist = ['http://localhost:3000', 'http://localhost:3001'];
 const corsOptions = {
   credentials: true,
   exposedHeaders: ["set-cookie"],

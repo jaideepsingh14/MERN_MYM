@@ -25,9 +25,9 @@ const authenticate = async (req, res, next)=>{
 
 const login = async (req, res, next) => {
   try {
-    const { username, password } = req.body;
+    const { email, password } = req.body;
     let user;
-    user = await User.findOne({ username });
+    user = await User.findOne({ email });
     if (user) {
       // Verify Password
       const isMatch = await bcryptjs.compare(password, user.password);
@@ -38,9 +38,9 @@ const login = async (req, res, next) => {
         const token = await user.generateToken();
         res.cookie("jwt", token)
         res.cookie("userid", user.id)
-        res.cookie("username", user.username)
+        res.cookie("email", user.email)
         return res.status(200).json({
-          "username": user.username,
+          "email": user.email,
           "jwt": token,
           "userid": user.id
         })

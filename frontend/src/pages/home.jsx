@@ -1,17 +1,32 @@
-import React,{useState, useEffect} from 'react'
+import React, {useState, useEffect} from 'react'
+import {getTodayImage} from '../api'
 
 const Home = () => {
-	const [imageUrl, setImageUrl] = useState("iugyiuhiuh")
+	const [image, setImage] = useState()
 
 	useEffect(() => {
-		setImageUrl("iugyu")
+		getTodayImage()
+			.then(response => {
+				console.log(response.data);
+				setImage(response.data.data)
+			})
 	}, [])
 
-	useEffect(() => {
-		console.log(imageUrl)
-	}, [imageUrl])
-
-	return <div> Home Page! </div>
+	return (
+		<div className="container-fluid text-center">
+			{ image &&
+				<div className="image">
+					<h2 className="title">
+						{image.title}
+					</h2>
+					<img src={image.url} alt={image.title} /> 
+					<div className="explanation">
+						{image.explanation}
+					</div>
+				</div>
+			}
+		</div>
+	)
 }
 
 export default Home
